@@ -1,3 +1,6 @@
+# 🧠 LUMEN - .gitignore
+# Ignora arquivos desnecessários ou sensíveis no versionamento
+
 # Logs
 logs
 *.log
